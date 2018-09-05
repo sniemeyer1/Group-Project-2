@@ -25,11 +25,11 @@ Created as the second group project for the Summer 2018 cohort of the University
 
 ## Authors
 
-* **Tanner Barnum** - [LinkedIn](https://www.linkedin.com/in/tanner-barnum-0b9808162/)
+* **Tanner Barnum** - [LinkedIn](https://www.linkedin.com/in/tanner-barnum-0b9808162/) // [GitHub](https://github.com/barnumtj)
 
-* **Edward Gartland** - [LinkedIn](https://www.linkedin.com/in/edward-gartland-839006163/)
+* **Edward Gartland** - [LinkedIn](https://www.linkedin.com/in/edward-gartland-839006163/) // [GitHub](https://github.com/EGartland)
 
-* **Jesse Harrah** - [LinkedIn](https://www.linkedin.com/in/jesse-harrah-b6b7b2152/)
+* **Jesse Harrah** - [LinkedIn](https://www.linkedin.com/in/jesse-harrah-b6b7b2152/) // [GitHub](https://github.com/DefiledSpec)
 
 * **Savannah Niemeyer** - [LinkedIn](https://www.linkedin.com/in/savannah-niemeyer-20579874/) // [GitHub](https://github.com/sniemeyer1)
 
