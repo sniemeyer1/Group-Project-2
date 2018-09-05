@@ -31,7 +31,7 @@ Created as the second group project for the Summer 2018 cohort of the University
 
 * **Jesse Harrah** - [LinkedIn](https://www.linkedin.com/in/jesse-harrah-b6b7b2152/)
 
-* **Savannah Niemeyer** - [LinkedIn](https://www.linkedin.com/in/savannah-niemeyer-20579874/) // [GitHub Repo](https://github.com/sniemeyer1)
+* **Savannah Niemeyer** - [LinkedIn](https://www.linkedin.com/in/savannah-niemeyer-20579874/) // [GitHub](https://github.com/sniemeyer1)
 
 
 ## Acknowledgments
